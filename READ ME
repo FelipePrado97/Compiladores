@@ -1,0 +1,19 @@
+Trabalho de Compiladores
+UFMS 2020
+
+Alunos:
+Alexandre Martins de Castro Filho
+Felipe da Silva Prado
+Felipe Matheus Laurindo de Oliveira
+
+ANALISADOR LÉXICO para a linguagem Mini Java
+Desenvolvido em Python
+
+Pacotes necessários: sly
+
+Execução: 
+1) Copiar o arquivo com o código fonte, a ser analisado, para a pasta raíz; 
+2) Ao executar o programa, será requerido o nome do arquivo com a extensão. Ex: teste.txt
+
+Saida:
+1) Ao fim da Análise Léxica o resultado será impresso no terminal;
